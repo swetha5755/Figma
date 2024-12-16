@@ -97,13 +97,8 @@ home page
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2024-12-16 103537.png>)
+![Screenshot 2024-12-16 111035](https://github.com/user-attachments/assets/299ba412-01a9-42c8-827c-85418f87112d)
 
-![alt text](<Screenshot 2024-12-16 103614.png>)
-
-![alt text](<Screenshot 2024-12-16 103655.png>)
-
-![alt text](<Screenshot 2024-12-16 103718.png>)
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
